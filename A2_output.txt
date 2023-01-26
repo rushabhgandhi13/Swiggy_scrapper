@@ -1,0 +1,7 @@
+The most ordered dish is  :  Mamledar Misal Pav 
+The number of orders for this dish is : 2
+Total money spent on swiggy.com in the last 4 months : Rs. 944
+Average money spent on swiggy.com in the last 4 months : Rs. 314
+Total money spent on swiggy.com : Rs. 2,195
+Total number of orders placed : 8
+Average money spent on each order : Rs.274
